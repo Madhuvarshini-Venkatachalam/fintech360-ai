@@ -1,0 +1,6 @@
+{
+  "name": "FinTech360 AI",
+  "description": "Smart Finance Management Powered by AI. A world-class premium fintech SaaS platform built for financiers, NBFCs, loan providers, and financial service businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
